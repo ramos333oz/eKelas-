@@ -1,0 +1,7 @@
+{
+  "name": "Aetheria AI Tutor",
+  "description": "A futuristic, voice-interactive AI learning assistant designed for large vertical screens.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
